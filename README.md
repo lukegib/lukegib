@@ -1,4 +1,4 @@
-# Yo yo! 
+## Yo yo! 🪀
 I’m Luke, welcome to my -crib- GitHub profile!
 
 I’m a UI / UX designer and front-end web developer with a focus on creating applications that excite users.
