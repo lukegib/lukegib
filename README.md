@@ -3,7 +3,7 @@ I’m Luke, welcome to my ~~crib~~ GitHub profile!
 
 I’m a UI / UX designer and front-end web developer with a focus on creating applications that excite users.
 
-To find out more check out my website: [lukegib.com](https://lukegib.com)
+To find out more, check out my website: [lukegib.com](https://lukegib.com)
 
 ## Skills to pay the bills 
 5 = Frequently used / confident, 1 = Limited use / rusty
